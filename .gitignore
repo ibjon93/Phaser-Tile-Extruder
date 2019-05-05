@@ -1,0 +1,7 @@
+# Ignore these folders
+node_modules/
+
+test-images/tileset1.png
+test-images/tileset1.png
+output/extrudedTilemap.png
+test-images/tileset1.png
